@@ -1,0 +1,22 @@
+{
+  "name": "maintenance-modules",
+  "version": "1.0.0",
+  "description": "list of modules useful for developing and maintaining modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxogden/maintenance-modules.git"
+  },
+  "keywords": [
+    "collection"
+  ],
+  "author": "max ogden",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/maxogden/maintenance-modules/issues"
+  },
+  "homepage": "https://github.com/maxogden/maintenance-modules"
+}
