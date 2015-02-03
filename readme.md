@@ -14,7 +14,9 @@ This is a list of modules that are useful for maintaining or developing modules.
 - https://github.com/meandavejustice/gh-pages-deploy
 - https://github.com/phuu/npm-release
 - https://github.com/tjunnone/npm-check-updates
-
+- https://github.com/zeke/npe
+- https://github.com/zeke/package-json-to-readme
+- https://github.com/zeke/npmwd
 
 ## maintenance bash scripts
 
