@@ -17,6 +17,8 @@ This is a list of modules that are useful for maintaining or developing modules.
 - https://github.com/zeke/npe
 - https://github.com/zeke/package-json-to-readme
 - https://github.com/zeke/npmwd
+- https://github.com/twolfson/foundry
+- https://github.com/boennemann/semantic-release
 
 ## maintenance bash scripts
 
