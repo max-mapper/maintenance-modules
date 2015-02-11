@@ -1,6 +1,6 @@
 {
   "name": "maintenance-modules",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "list of modules useful for developing and maintaining modules",
   "main": "index.js",
   "scripts": {
