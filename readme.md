@@ -134,6 +134,14 @@ Command-line tool to quickly create a new node module with readme, license, cont
 npm i module-init -g
 ```
 
+### [gh-release](https://github.com/ngoldman/gh-release) by [ngoldman](https://www.npmjs.com/~ngoldman)
+
+Create a release for a node package on GitHub. Uses the Github Releases API to create a new release. Defaults to using information from package.json and CHANGELOG.md.
+
+```
+npm i gh-release -g
+```
+
 ## maintenance bash scripts
 
 ```
