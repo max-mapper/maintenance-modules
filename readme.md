@@ -126,6 +126,14 @@ Preconfigured pipelines for node.js. A more powerful version of npm scripts, but
 npm i gasket --save-dev
 ```
 
+### [module-init](https://github.com/ngoldman/module-init) by [ngoldman](https://www.npmjs.com/~ngoldman)
+
+Command-line tool to quickly create a new node module with readme, license, contributing guidelines, and other goodies.
+
+```
+npm i module-init -g
+```
+
 ## maintenance bash scripts
 
 ```
