@@ -142,6 +142,22 @@ Create a release for a node package on GitHub. Uses the Github Releases API to c
 npm i gh-release -g
 ```
 
+### [XO](https://github.com/sindresorhus/xo) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+
+JavaScript happiness style linter. Enforce strict code style. No decision-making. No config. It just works!
+
+```
+npm i xo -g
+```
+
+### [np](https://github.com/sindresorhus/np) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+
+A better `npm publish`. Runs your tests before publishing, bumps version, pushes git commits/tags, and more.
+
+```
+npm i np -g
+```
+
 ## maintenance bash scripts
 
 ```
@@ -151,5 +167,3 @@ alias major='pre-version && npm version major && post-version'
 alias pre-version='git diff --exit-code && npm prune && npm install -q && npm test'
 alias post-version='npm run --if-present build && git diff --exit-code && git push && git push --tags && npm publish'
 ```
-
-- https://gist.github.com/sindresorhus/8435329
