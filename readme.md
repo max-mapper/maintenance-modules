@@ -1,6 +1,6 @@
 # maintenance-modules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![NPM](https://nodei.co/npm/maintenance-modules.png)](https://nodei.co/npm/maintenance-modules/)
+[![NPM](https://nodei.co/npm/maintenance-modules.png)](https://www.npmjs.com/package/maintenance-modules)
 
 There is no code in this module, the only thing is this README file.
 
@@ -70,7 +70,7 @@ Find newer versions of dependencies than what your package.json allows.
 npm i npm-check-updates --save-dev
 ```
 
-### [npe](https://github.com/zeke/npe) by [zeke](https://npmjs.org/~zeke)
+### [npe](https://github.com/zeke/npe) by [zeke](https://www.npmjs.com/~zeke)
 
 Node Package Editor: a CLI for one-off inspection and editing of properties in package.json files. Lets you avoid having to hand-edit JSON.
 
@@ -102,7 +102,7 @@ Release manager for npm, bower, component, PyPI, git tags, and any plugin you ca
 npm i foundry --save-dev
 ```
 
-### [semantic-release](https://github.com/boennemann/semantic-release) by [boennemann](https://www.npmjs.com/~boennemann)
+### [semantic-release](https://github.com/semantic-release/semantic-release) by [boennemann](https://www.npmjs.com/~boennemann)
 
 Fully automate your package's releases. This will determine not only which version to release, but also when – all without you having to care about it ever again. The goal of this package is to remove humans from version numbers and releases. Check out the readme for more info!
 
