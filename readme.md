@@ -158,6 +158,14 @@ A better `npm publish`. Runs your tests before publishing, bumps version, pushes
 npm i np -g
 ```
 
+### [standard-readme](https://github.com/RichardLitt/standard-readme) by [RichardLitt](https://www.npmjs.com/~richardlitt)
+
+A spec for how a good Readme should be filled out. Includes links to a [Yeoman](http://yeoman.io/) generator for quickly creating structured readmes.
+
+```
+npm i standard-readme -g
+```
+
 ## maintenance bash scripts
 
 ```
